@@ -1,6 +1,6 @@
 ## Máquina de Vendas
 
-**Este projeto foi evoluído após alguns anos**
+**Este projeto foi evoluído após posteriormente**
 
 Primeiro algoritmo desenvolvido durante a faculdade utilizando programação funcional.
 Este projeto é uma simulação simples de uma máquina de vendas (vending machine) desenvolvida em Python.
@@ -42,7 +42,7 @@ O sistema é dividido em três partes principais:
 
 ### Estrutura do código
 
-- aquina() → Controla o fluxo principal e o menu
+- maquina() → Controla o fluxo principal e o menu
 - get_dinheiro() → Recebe o pagamento do usuário
 - push_troco() → Calcula e exibe o troco
 
@@ -50,11 +50,16 @@ O sistema é dividido em três partes principais:
 
 Certifique-se de ter o Python instalado
 Clone o repositório:
-git clone https://github.com/JothanRAlmeida/ModeloDados_Vendas.git
+
+- git clone https://github.com/JothanRAlmeida/ModeloDados_Vendas.git
+
 Acesse a pasta do projeto:
-cd ModeloDados_Vendas
+
+- cd ModeloDados_Vendas
+
 Execute o script:
-python maquina.py
+
+- python maquina.py
 
 ### Observações
 
