@@ -49,6 +49,7 @@ O sistema é dividido em três partes principais:
 ### Como executar
 
 Certifique-se de ter o Python instalado
+
 Clone o repositório:
 
 - git clone https://github.com/JothanRAlmeida/ModeloDados_Vendas.git
